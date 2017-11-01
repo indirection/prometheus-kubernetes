@@ -193,3 +193,5 @@ kubectl --namespace=monitoring exec $(kubectl --namespace=monitoring get pods -l
 # Pictures
 
 ![grafana](images/grafana.png "Grafana dashboard")
+
+Notes:
